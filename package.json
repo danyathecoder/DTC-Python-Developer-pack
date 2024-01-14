@@ -1,0 +1,22 @@
+{
+  "name": "dtc-python-pack",
+  "displayName": "DTC Python Developer pack",
+  "publisher": "danyathecoder",
+  "description": "This pack contains extensions to develop using python.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danyathecoder/DTC-Python-Developer-pack.git"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "ms-python.python",
+    "ms-python.vscode-pylance"
+  ]
+}
